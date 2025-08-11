@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou a JeMaxTech!
 
-<!--
-**JeMaxTech/JeMaxTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas**  
+💻 Atualmente aprendendo **HTML, CSS, PHP** e **lógica de programação**  
+🚀 Explorando **Git** & **GitHub** e boas práticas de desenvolvimento  
+🌱 Sempre em busca de novos desafios e conhecimento na área de TI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Tecnologias que estou estudando:
+- HTML5  
+- CSS3  
+- PHP  
+- Lógica de Programação  
+- Git & GitHub  
+
+---
+
+## 📈 Objetivos:
+- Criar meus primeiros projetos e publicá-los aqui  
+- Praticar programação todos os dias  
+- Colaborar em projetos open source no futuro  
+
+---
+
+## 📫 Como me encontrar:
+- **E-mail:** jessica.maximiano@fatec.sp.gov.br 
+---
+
+⭐ *"O aprendizado é a chave para transformar ideias em soluções."*
